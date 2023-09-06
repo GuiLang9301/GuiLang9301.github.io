@@ -72,6 +72,10 @@ body {
   line-height: 1.5;
 }
 
+.blob-parent {
+  position: relative;
+}
+
 .blob {
   width: 10rem;
   position: absolute;
